@@ -12,5 +12,6 @@ end
 
 vol = e^d;
 diag = e * sqrt(d);
+% This is a very important comment
 
 end
